@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(219, 240, 240);
+  }
+  .Container {
+      padding: 20px;
+      width:800px;
+      height: 500px; 
+      margin-top: 200px;
+      margin-left:280px;
+      margin-top:70px;
+      text-align:center;
+    }
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%;
+      
+    }
+    
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+      border-color:rgb(53, 117, 117);
+    }
+    
+    tr:nth-child(even) {
+      background-color: #dddddd;
+    }
+    
